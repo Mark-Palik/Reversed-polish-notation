@@ -12,3 +12,10 @@ C:\Users\Марк\source\repos\RPN\Your RPN\obj\Debug\Your RPN.csprojAssemblyRef
 C:\Users\Марк\source\repos\RPN\Your RPN\obj\Debug\Your RPN.csproj.CoreCompileInputs.cache
 C:\Users\Марк\source\repos\RPN\Your RPN\obj\Debug\Your RPN.exe
 C:\Users\Марк\source\repos\RPN\Your RPN\obj\Debug\Your RPN.pdb
+E:\cloneRPN\RPN\Your RPN\bin\Debug\Your RPN.exe.config
+E:\cloneRPN\RPN\Your RPN\bin\Debug\Your RPN.exe
+E:\cloneRPN\RPN\Your RPN\bin\Debug\Your RPN.pdb
+E:\cloneRPN\RPN\Your RPN\obj\Debug\Your RPN.csprojAssemblyReference.cache
+E:\cloneRPN\RPN\Your RPN\obj\Debug\Your RPN.csproj.CoreCompileInputs.cache
+E:\cloneRPN\RPN\Your RPN\obj\Debug\Your RPN.exe
+E:\cloneRPN\RPN\Your RPN\obj\Debug\Your RPN.pdb

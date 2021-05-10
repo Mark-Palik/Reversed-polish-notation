@@ -10,8 +10,10 @@ namespace Your_RPN
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Class1.revPolNat("(3+4)*4"));
-            Console.WriteLine(Class1.polNattoAnr(Class1.revPolNat("(3+4)*4")));
+            Console.WriteLine("Enter ordinary mathematical expression");
+            string expression = Console.ReadLine();
+            Console.WriteLine(Class1.revPolNat(expression));
+            Console.WriteLine(Class1.polNattoAnr(Class1.revPolNat(expression)));
             Console.ReadKey();
         }
     }
